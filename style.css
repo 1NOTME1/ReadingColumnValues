@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.container{	
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 420px;
+}
+
+.wynik {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height:330px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+input {
+    border: 1px white solid;
+    background-color: transparent;
+}
+button {
+    border: 1px white solid;
+
+}
